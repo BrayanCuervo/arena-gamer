@@ -74,8 +74,4 @@ src/
 assets/images/mapa-mundo.png  ← imagen del Nivel 3
 ```
 
-## Créditos
 
-- Fotos de consolas: [Wikimedia Commons](https://commons.wikimedia.org). Xbox One X, PlayStation 4 Pro y Nintendo Switch: fotografías de dominio público de Evan-Amos. Steam Deck: imagen de Wikimedia Commons bajo licencia libre (ver la página del archivo).
-- Ilustración del mapa: original, creada para esta app.
-- Las marcas y nombres de juegos pertenecen a sus respectivos dueños y se mencionan con fines informativos.
